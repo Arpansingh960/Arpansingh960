@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data analytics, Web Devloper and digital marketer**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/sanojkumar96](linkedin.com/in/sanojkumar96)
+- 👨‍💻 All of my projects are available at  linkedin.com/in/sanojkumar96
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/harnessing-power-ai-machine-learning-e-commerce-shopping-sanoj-kumar-zeewc/?trackingId=vws1jj8XQdWh76OsWUGAew%3D%3D](https://www.linkedin.com/pulse/harnessing-power-ai-machine-learning-e-commerce-shopping-sanoj-kumar-zeewc/?trackingId=vws1jj8XQdWh76OsWUGAew%3D%3D)
 
