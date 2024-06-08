@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpansingh960&label=Profile%20views&color=0e75b6&style=flat" alt="arpansingh960" /> </p>
 
-- 🔭 I’m currently working on **Arihant Shopping Store Annual Report 2022**
+- 🔭 I’m currently working on **Weather Forcasting With Maching Learning**
 
-- 🌱 I’m currently learning **.Net Framework and AI related courses.**
+- 🌱 I’m currently learning **Data Analytics and AI related courses.**
 
 - 👯 I’m looking to collaborate on **Weather forecasting with machine learning**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/harnessing-power-ai-machine-learning-e-commerce-shopping-sanoj-kumar-zeewc/](https://www.linkedin.com/pulse/harnessing-power-ai-machine-learning-e-commerce-shopping-sanoj-kumar-zeewc/)
 
-- 💬 Ask me about **DSA , JAVA.**
+- 💬 Ask me about **DSA , Power BI, JAVA.**
 
 - 📫 How to reach me **sanojkumar12000121026@gmail.com**
 
