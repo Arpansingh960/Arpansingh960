@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpansingh960&label=Profile%20views&color=0e75b6&style=flat" alt="arpansingh960" /> </p>
 
-- 🔭 I’m currently working on **Weather Forcasting With Maching Learning**
+- 🔭 I’m currently working on **Weather Forecasting With Maching Learning**
 
 - 🌱 I’m currently learning **Data Analytics and AI related courses.**
 
